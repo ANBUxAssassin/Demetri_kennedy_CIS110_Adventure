@@ -24,7 +24,7 @@ while keepPlaying.lower() == "yes":
         players = input(f"Please enter a numeric value:  ")
 
     print(f"\nLET'S GO!!!")
-    print(f"\nYou have just arrive st {name} Escape room. ")
+    print(f"\nYou have just arrive at {name} Escape room during the {day}. ")
     print(f"You have choosen {level} and you have a time limit of {time}. ")
     print(f"You and {players} other people will be trapped inside of this room. ")
     print(f"After the rules and the story was told aswell as where the key is to leave the room if you decide to give up.")
